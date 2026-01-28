@@ -1,3 +1,6 @@
+Check out this cool cat.
+<img src="https://cdn.7tv.app/emote/01H6XRV6RR000946Z575118165/4x.avif">
+
 # Data_Analysis_Python_R
 
 The files in this repository contain lecture code for Data Analysis for R & Python (ECO 590 and ECO 389) at Pace University taught by [Mary Kaltenberg](mkaltenberg.com}).
